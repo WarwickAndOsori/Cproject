@@ -10,5 +10,5 @@ int main(void) {
 	scanf_s("%c", c);
 
 	printf("\n받은것 정수 : %d 문자: %c\n", x, c);
-	return 0;
+	
 }
